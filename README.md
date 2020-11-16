@@ -22,7 +22,7 @@ const Ntshembo = {
     code: ["Javascript"],
     askMeAbout: ["web development","Cyber Security"],
     highSchool:"Risinga HighSchool",
-    university:"University Of The Western Cape
+    university:"University Of The Western Cape",
     technologies: {
         frontEnd: {
             js: ["React"],
