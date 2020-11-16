@@ -30,7 +30,7 @@ const Ntshembo = {
             css: ["material ui", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"]
+            js: ["node", "express"],
             python:["Django"]
         },
         databases: ["mongo", "sql"],
