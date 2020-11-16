@@ -19,7 +19,7 @@
 
 ```javascript
 const Ntshembo = {
-    askMeAbout: ["web development","Cyber Security"],
+    fieldOfInterest: ["web development","Cyber Security", "Mobile Development"],
     highSchool:"Risinga HighSchool",
     university:"University Of The Western Cape",
     degree:"BSc Computer Science",
