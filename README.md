@@ -42,11 +42,11 @@ const Ntshembo = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" target="_blank"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
-![](https://github-readme-stats.vercel.app/api?username=Ntshembo-Hlongwane1&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ntshembo-Hlongwane1&show_icons=true&theme=dark&count_private=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntshembo-Hlongwane1&layout=compact)](https://github.com/Ntshembo-Hlongwane1/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ntshembo-Hlongwane1.guptamohit004)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ntshembo-Hlongwane1)
 
 ## 🚀 Languages and Tools:
 
@@ -88,7 +88,6 @@ const Ntshembo = {
 > 🔑 0 Private Repositories 
 
 **I'm a Night 🦉** 
-
 ```text
 🌞 Morning    24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
 🌆 Daytime    120 commits    █████████░░░░░░░░░░░░░░░░   37.15% 
