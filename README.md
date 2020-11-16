@@ -41,7 +41,7 @@ const Ntshembo = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" target="_blank"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
-![](https://github-readme-stats.vercel.app/api?username=Ntshembo-Hlongwane1&show_icons=true&theme=dark&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Ntshembo-Hlongwane1&show_icons=true&theme=dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntshembo-Hlongwane1&layout=compact)](https://github.com/Ntshembo-Hlongwane1/github-readme-stats)
 
