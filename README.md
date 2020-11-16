@@ -1,11 +1,11 @@
-<h2> I'm Ntshembo Hlongwane  <img src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="50">
+<h2>Hi I'm Ntshembo Hlongwane  <img src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="50">
 </h2>
 
 <img align='right' src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="230">
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/guptamohit004?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/CrazyteddyX?label=Follow)
+![GitHub followers](https://img.shields.io/github/followers/Ntshembo-Hlongwane1?label=Follow&style=social)
 
 <p>
 <a href="https://twitter.com/guptamohit004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guptamohit004" height="30" width="30" /></a>
@@ -19,25 +19,25 @@
 
 ```javascript
 const mohit = {
-    pronouns: "He" | "Him",
     code: ["Javascript"],
-    askMeAbout: ["web development","dev", "tech","PWA"],
+    askMeAbout: ["web development","Cyber Security"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next"],
+            js: ["React"],
             css: ["material ui", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "loopback"]
+            js: ["node", "express"]
+            python:["Django"]
         },
         databases: ["mongo", "sql"],
-        misc: ["Firebase", "GraphQL"]
+        misc: ["Firebase"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications","Server Side Rendering"]
+    architecture: ["Serverless Architecture", "Single page applications"]
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
 ![](https://github-readme-stats.vercel.app/api?username=guptamohit004&show_icons=true&theme=dark&count_private=true)
 
