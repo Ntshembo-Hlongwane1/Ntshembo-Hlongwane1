@@ -23,6 +23,7 @@ const Ntshembo = {
     askMeAbout: ["web development","Cyber Security"],
     highSchool:"Risinga HighSchool",
     university:"University Of The Western Cape",
+    degree:"BSc Computer Science",
     technologies: {
         frontEnd: {
             js: ["React"],
