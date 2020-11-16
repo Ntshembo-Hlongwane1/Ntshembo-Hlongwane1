@@ -39,15 +39,17 @@ const Ntshembo = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
-![](https://github-readme-stats.vercel.app/api?username=guptamohit004&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ntshembo-Hlongwane1&show_icons=true&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guptamohit004&layout=compact)](https://github.com/guptamohit004/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntshembo-Hlongwane1&layout=compact)](https://github.com/Ntshembo-Hlongwane1/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guptamohit004.guptamohit004)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ntshembo-Hlongwane1.guptamohit004)
 
 ## 🚀 Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
@@ -58,7 +60,6 @@ const Ntshembo = {
 
 <img align="left" alt="ReactJS" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>
 
-<img align="left" alt="NextJS" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/64/nextjs_icon_132160.png"/>
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 
