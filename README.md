@@ -95,9 +95,4 @@ const Ntshembo = {
 ```
 
 
-**Timeline**
-
-![Chart not found](https://github.com/Ntshembo-Hlongwane1/Ntshembo-Hlongwane/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
