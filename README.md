@@ -80,7 +80,7 @@ const Ntshembo = {
 
 > 🏆 106 Contributions in the Year 2020 
  > 
-> 📜 14 Public Repositories
+> 📜 13 Public Repositories
  > 
 > 🔑 0 Private Repositories 
 
