@@ -82,7 +82,7 @@ const Ntshembo = {
  > 
 > 📜 17 Public Repositories
  > 
-> 🔑 0 Private Repositories 
+> 🔑 1 Private Repositories 
 
 **I'm a Night 🦉** 
 
