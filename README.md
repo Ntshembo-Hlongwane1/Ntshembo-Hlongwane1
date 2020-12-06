@@ -78,9 +78,9 @@ const Ntshembo = {
 
 **🐱 My Github Data** 
 
-> 🏆 177 Contributions in the Year 2020 
+> 🏆 206 Contributions in the Year 2020 
  > 
-> 📜 23 Public Repositories
+> 📜 25 Public Repositories
  > 
 > 🔑 1 Private Repositories 
 
