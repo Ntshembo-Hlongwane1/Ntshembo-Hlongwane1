@@ -26,13 +26,13 @@ const Ntshembo = {
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["material ui", "bootstrap"]
+            css: ["material ui", "bootstrap", "sass"]
         },
         backEnd: {
             js: ["node", "express"],
             python:["Django"]
         },
-        databases: ["mongo", "sql"],
+        databases: ["mongo", "postgresql"],
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Single page applications"]
