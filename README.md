@@ -78,7 +78,7 @@ const Ntshembo = {
 
 **🐱 My Github Data** 
 
-> 🏆 12 Contributions in the Year 2021 
+> 🏆 235 Contributions in the Year 2021 
  > 
 > 📜 31 Public Repositories
  > 
