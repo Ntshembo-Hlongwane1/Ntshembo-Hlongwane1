@@ -19,23 +19,23 @@
 
 ```javascript
 const Ntshembo = {
-    fieldOfInterest: ["Web Development","Cyber Security", "Mobile Development", "Competitive Programming"],
+    fieldOfInterest: ['Web Development','Cyber Security', 'Mobile Development', 'Competitive Programming'],
     highSchool:"Risinga HighSchool",
     university:"University Of The Western Cape",
     degree:"BSc Computer Science",
     technologies: {
         frontEnd: {
-            js: ["React"],
-            css: ["material ui", "bootstrap", "sass"]
+            js: ['ReactJS', 'NextJS', 'React Native'],
+            css: ['material ui', 'bootstrap', 'sass', 'styled-components']
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ['node', 'express'],
             python:["Django"]
         },
-        databases: ["mongo", "postgresql"],
-        misc: ["Firebase"]
+        databases: ['mongodb', 'postgresql'],
+        misc: ['Firebase']
     },
-    architecture: ["Serverless Architecture", "Single page applications"]
+    architecture: ['Serverless Architecture', 'Single page applications']
 };
 ```
 
