@@ -35,7 +35,8 @@ const Ntshembo = {
         databases: ['mongodb', 'postgresql'],
         misc: ['Firebase']
     },
-    architecture: ['Serverless Architecture', 'Single page applications']
+    architecture: ['Serverless Architecture', 'Single page applications'],
+    contact: "ntshembohlongwane1@gmail.com"
 };
 ```
 
